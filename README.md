@@ -1,4 +1,4 @@
-# QATask
+# ViQA-toolkit: Vietnamese Open-domain Question Answering Toolkit
 
 **NOTE**: 
 - Assume the ONLY working directory is `/absolute/path/to/QATask/`.
